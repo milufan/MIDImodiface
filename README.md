@@ -108,4 +108,4 @@ The LED is located between the explanations of loop-back and interface modes. Th
 (The `Boot select` label on this sticker has nothing to do with the operation of **Modiface** itself but denotes a hole in the case that is used to flash the pico-device.)
 I used an empty tablet-tube as cheap housing for my **Modiface**. The whole device therefore looks like this:
 
-![](pictures/complete.jpg)
+![](pictures/complete.JPG)
